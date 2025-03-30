@@ -1,0 +1,2 @@
+subscriptionName password1
+servizio2 password2
