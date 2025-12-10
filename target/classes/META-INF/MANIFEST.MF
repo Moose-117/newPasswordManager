@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 21
-Main-Class: your.package.Main
+Main-Class: com.mycompany.passwordmanager.Main
 Created-By: Maven Integration for Eclipse
 
