@@ -1,0 +1,5 @@
+com\mycompany\passwordmanager\Service.class
+com\mycompany\passwordmanager\CheckProcess.class
+com\mycompany\passwordmanager\ManageSubscriptions.class
+com\mycompany\passwordmanager\Main.class
+com\mycompany\passwordmanager\ParameterStringBuilder.class
